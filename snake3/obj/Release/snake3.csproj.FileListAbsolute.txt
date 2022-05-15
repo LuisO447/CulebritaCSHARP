@@ -1,0 +1,29 @@
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\bin\Release\snake3.exe.config
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\bin\Release\snake3.exe
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\bin\Release\snake3.pdb
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.Form1.resources
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.Properties.Resources.resources
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.csproj.GenerateResource.Cache
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.exe
+c:\users\satur\documents\visual studio 2015\Projects\snake3\snake3\obj\Release\snake3.pdb
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\bin\Release\snake3.exe.config
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\bin\Release\snake3.exe
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\bin\Release\snake3.pdb
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.Form1.resources
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.Properties.Resources.resources
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.csproj.GenerateResource.cache
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.csproj.CoreCompileInputs.cache
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.exe
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.pdb
+C:\Users\Rosmery\Documents\visualProyectos\snake1\snake3\obj\Release\snake3.csprojAssemblyReference.cache
+C:\Users\Usuario 2021\Documents\snake1\snake3\bin\Release\snake3.exe.config
+C:\Users\Usuario 2021\Documents\snake1\snake3\bin\Release\snake3.exe
+C:\Users\Usuario 2021\Documents\snake1\snake3\bin\Release\snake3.pdb
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.csproj.AssemblyReference.cache
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.Form1.resources
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.Properties.Resources.resources
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.csproj.GenerateResource.cache
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.exe
+C:\Users\Usuario 2021\Documents\snake1\snake3\obj\Release\snake3.pdb
